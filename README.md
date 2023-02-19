@@ -22,9 +22,10 @@ $ git branch YOUR_NAME
 $ git checkout YOUR_NAME
 ```
 
-- Загрузи код
+- Загрузите код
 ```
 $ git status
 $ git add .
 $ git commit -m "YOUR COMMENT"
+$ git push
 ```
